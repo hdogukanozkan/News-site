@@ -422,6 +422,9 @@ p {
 
 
 @media (max-width:550px){
+    html {
+        font-size: 8.25px;
+    }
     #main-footer .footer-container,
     #main-articles .articles-container{
         grid-template-columns: 1fr;
